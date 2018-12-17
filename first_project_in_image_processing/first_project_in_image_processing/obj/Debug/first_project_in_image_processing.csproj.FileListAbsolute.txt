@@ -1,0 +1,53 @@
+c:\users\mustafa\documents\visual studio 2015\Projects\first_project_in_image_processing\first_project_in_image_processing\bin\Debug\first_project_in_image_processing.exe.config
+c:\users\mustafa\documents\visual studio 2015\Projects\first_project_in_image_processing\first_project_in_image_processing\bin\Debug\first_project_in_image_processing.exe
+c:\users\mustafa\documents\visual studio 2015\Projects\first_project_in_image_processing\first_project_in_image_processing\bin\Debug\first_project_in_image_processing.pdb
+c:\users\mustafa\documents\visual studio 2015\Projects\first_project_in_image_processing\first_project_in_image_processing\bin\Debug\AForge.dll
+c:\users\mustafa\documents\visual studio 2015\Projects\first_project_in_image_processing\first_project_in_image_processing\bin\Debug\AForge.Imaging.dll
+c:\users\mustafa\documents\visual studio 2015\Projects\first_project_in_image_processing\first_project_in_image_processing\bin\Debug\AForge.Imaging.Formats.dll
+c:\users\mustafa\documents\visual studio 2015\Projects\first_project_in_image_processing\first_project_in_image_processing\bin\Debug\AForge.Video.DirectShow.dll
+c:\users\mustafa\documents\visual studio 2015\Projects\first_project_in_image_processing\first_project_in_image_processing\bin\Debug\AForge.Video.dll
+c:\users\mustafa\documents\visual studio 2015\Projects\first_project_in_image_processing\first_project_in_image_processing\bin\Debug\AForge.Math.dll
+c:\users\mustafa\documents\visual studio 2015\Projects\first_project_in_image_processing\first_project_in_image_processing\bin\Debug\AForge.xml
+c:\users\mustafa\documents\visual studio 2015\Projects\first_project_in_image_processing\first_project_in_image_processing\bin\Debug\AForge.Imaging.xml
+c:\users\mustafa\documents\visual studio 2015\Projects\first_project_in_image_processing\first_project_in_image_processing\bin\Debug\AForge.Imaging.Formats.xml
+c:\users\mustafa\documents\visual studio 2015\Projects\first_project_in_image_processing\first_project_in_image_processing\bin\Debug\AForge.Video.xml
+c:\users\mustafa\documents\visual studio 2015\Projects\first_project_in_image_processing\first_project_in_image_processing\bin\Debug\AForge.Video.DirectShow.xml
+c:\users\mustafa\documents\visual studio 2015\Projects\first_project_in_image_processing\first_project_in_image_processing\bin\Debug\AForge.Math.xml
+c:\users\mustafa\documents\visual studio 2015\Projects\first_project_in_image_processing\first_project_in_image_processing\obj\Debug\first_project_in_image_processing.csprojResolveAssemblyReference.cache
+c:\users\mustafa\documents\visual studio 2015\Projects\first_project_in_image_processing\first_project_in_image_processing\obj\Debug\first_project_in_image_processing.Form1.resources
+c:\users\mustafa\documents\visual studio 2015\Projects\first_project_in_image_processing\first_project_in_image_processing\obj\Debug\first_project_in_image_processing.Properties.Resources.resources
+c:\users\mustafa\documents\visual studio 2015\Projects\first_project_in_image_processing\first_project_in_image_processing\obj\Debug\first_project_in_image_processing.csproj.GenerateResource.Cache
+c:\users\mustafa\documents\visual studio 2015\Projects\first_project_in_image_processing\first_project_in_image_processing\obj\Debug\first_project_in_image_processing.exe
+c:\users\mustafa\documents\visual studio 2015\Projects\first_project_in_image_processing\first_project_in_image_processing\obj\Debug\first_project_in_image_processing.pdb
+C:\Users\Mustafa\first_project_in_image_processing\first_project_in_image_processing\bin\Debug\first_project_in_image_processing.exe.config
+C:\Users\Mustafa\first_project_in_image_processing\first_project_in_image_processing\obj\Debug\first_project_in_image_processing.exe
+C:\Users\Mustafa\first_project_in_image_processing\first_project_in_image_processing\obj\Debug\first_project_in_image_processing.pdb
+C:\Users\Mustafa\first_project_in_image_processing\first_project_in_image_processing\bin\Debug\first_project_in_image_processing.exe
+C:\Users\Mustafa\first_project_in_image_processing\first_project_in_image_processing\bin\Debug\first_project_in_image_processing.pdb
+C:\Users\Mustafa\first_project_in_image_processing\first_project_in_image_processing\bin\Debug\AForge.Math.dll
+C:\Users\Mustafa\first_project_in_image_processing\first_project_in_image_processing\bin\Debug\AForge.xml
+C:\Users\Mustafa\first_project_in_image_processing\first_project_in_image_processing\bin\Debug\AForge.Imaging.xml
+C:\Users\Mustafa\first_project_in_image_processing\first_project_in_image_processing\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\Mustafa\first_project_in_image_processing\first_project_in_image_processing\bin\Debug\AForge.Video.xml
+C:\Users\Mustafa\first_project_in_image_processing\first_project_in_image_processing\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Mustafa\first_project_in_image_processing\first_project_in_image_processing\bin\Debug\AForge.Math.xml
+C:\Users\Mustafa\first_project_in_image_processing\first_project_in_image_processing\obj\Debug\first_project_in_image_processing.csprojResolveAssemblyReference.cache
+C:\Users\Mustafa\first_project_in_image_processing\first_project_in_image_processing\obj\Debug\first_project_in_image_processing.Form1.resources
+C:\Users\Mustafa\first_project_in_image_processing\first_project_in_image_processing\obj\Debug\first_project_in_image_processing.Properties.Resources.resources
+C:\Users\Mustafa\first_project_in_image_processing\first_project_in_image_processing\obj\Debug\first_project_in_image_processing.csproj.GenerateResource.Cache
+C:\Users\Mustafa\Desktop\4. SINIF\Tıbbi Görüntü İşleme\Ödevler\first_project_in_image_processing\first_project_in_image_processing\bin\Debug\first_project_in_image_processing.exe.config
+C:\Users\Mustafa\Desktop\4. SINIF\Tıbbi Görüntü İşleme\Ödevler\first_project_in_image_processing\first_project_in_image_processing\obj\Debug\first_project_in_image_processing.exe
+C:\Users\Mustafa\Desktop\4. SINIF\Tıbbi Görüntü İşleme\Ödevler\first_project_in_image_processing\first_project_in_image_processing\obj\Debug\first_project_in_image_processing.pdb
+C:\Users\Mustafa\Desktop\4. SINIF\Tıbbi Görüntü İşleme\Ödevler\first_project_in_image_processing\first_project_in_image_processing\bin\Debug\first_project_in_image_processing.exe
+C:\Users\Mustafa\Desktop\4. SINIF\Tıbbi Görüntü İşleme\Ödevler\first_project_in_image_processing\first_project_in_image_processing\bin\Debug\first_project_in_image_processing.pdb
+C:\Users\Mustafa\Desktop\4. SINIF\Tıbbi Görüntü İşleme\Ödevler\first_project_in_image_processing\first_project_in_image_processing\bin\Debug\AForge.Math.dll
+C:\Users\Mustafa\Desktop\4. SINIF\Tıbbi Görüntü İşleme\Ödevler\first_project_in_image_processing\first_project_in_image_processing\bin\Debug\AForge.xml
+C:\Users\Mustafa\Desktop\4. SINIF\Tıbbi Görüntü İşleme\Ödevler\first_project_in_image_processing\first_project_in_image_processing\bin\Debug\AForge.Imaging.xml
+C:\Users\Mustafa\Desktop\4. SINIF\Tıbbi Görüntü İşleme\Ödevler\first_project_in_image_processing\first_project_in_image_processing\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\Mustafa\Desktop\4. SINIF\Tıbbi Görüntü İşleme\Ödevler\first_project_in_image_processing\first_project_in_image_processing\bin\Debug\AForge.Video.xml
+C:\Users\Mustafa\Desktop\4. SINIF\Tıbbi Görüntü İşleme\Ödevler\first_project_in_image_processing\first_project_in_image_processing\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Mustafa\Desktop\4. SINIF\Tıbbi Görüntü İşleme\Ödevler\first_project_in_image_processing\first_project_in_image_processing\bin\Debug\AForge.Math.xml
+C:\Users\Mustafa\Desktop\4. SINIF\Tıbbi Görüntü İşleme\Ödevler\first_project_in_image_processing\first_project_in_image_processing\obj\Debug\first_project_in_image_processing.csprojResolveAssemblyReference.cache
+C:\Users\Mustafa\Desktop\4. SINIF\Tıbbi Görüntü İşleme\Ödevler\first_project_in_image_processing\first_project_in_image_processing\obj\Debug\first_project_in_image_processing.Form1.resources
+C:\Users\Mustafa\Desktop\4. SINIF\Tıbbi Görüntü İşleme\Ödevler\first_project_in_image_processing\first_project_in_image_processing\obj\Debug\first_project_in_image_processing.Properties.Resources.resources
+C:\Users\Mustafa\Desktop\4. SINIF\Tıbbi Görüntü İşleme\Ödevler\first_project_in_image_processing\first_project_in_image_processing\obj\Debug\first_project_in_image_processing.csproj.GenerateResource.Cache
